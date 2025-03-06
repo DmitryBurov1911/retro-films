@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200441014055",
+    "project_id": "retro-films-79330",
+    "storage_bucket": "retro-films-79330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200441014055:android:72470bcc61bd942e02eb02",
+        "android_client_info": {
+          "package_name": "com.example.retro_films"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDEYVal6ItitlxyXHqMPoXXpXUVeMhnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
