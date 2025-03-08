@@ -30,7 +30,6 @@ class Movie {
     required this.comments,
   });
 
-  // Метод копирования с возможностью изменения полей
   Movie copyWith({
     String? id,
     String? title,

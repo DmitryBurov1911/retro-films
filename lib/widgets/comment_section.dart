@@ -33,7 +33,7 @@ class CommentSection extends StatelessWidget {
               Expanded(
                 child: TextField(
                   controller: _controller,
-                  decoration: InputDecoration(
+                  decoration: const InputDecoration(
                     hintText: 'Добавить комментарий...',
                     border: OutlineInputBorder(),
                   ),
